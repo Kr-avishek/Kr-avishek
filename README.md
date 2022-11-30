@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Kr-avishek
-- I am B.tech Graduate in ECE.
-- 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning FrontEnd Technologies
-- 💞️ I’m looking to collaborate on React JS Projects
+-  Familiar With - HTML, CSS, JS, BOOTSTRAP, SASS, ANGULAR, ANGULAR MATERIAL, NODE JS, NEST JS
+-  Working on evolving myself with latest skills,
+-  Currently working as software developer- FRONTEND in a gaming company.
+-  linkedIn - "https://www.linkedin.com/in/itskravi/"
+- 💞️ to build and evolve
 - 📫 Kavishek298@gmail.com
 
 <!---
