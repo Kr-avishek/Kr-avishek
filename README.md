@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kr-avishek
--  Familiar With - HTML, CSS, JS, BOOTSTRAP, SASS, ANGULAR, ANGULAR MATERIAL, NODE JS, NEST JS
+-  Familiar With - HTML, CSS, JS, BOOTSTRAP, SASS, ANGULAR, ANGULAR MATERIAL, React JS, Next JS.
 -  Working on evolving myself with latest skills,
 -  Currently working as software developer- FRONTEND in a gaming company.
 -  linkedIn - "https://www.linkedin.com/in/itskravi/"
